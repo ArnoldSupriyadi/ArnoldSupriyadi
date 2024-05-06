@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArnoldSupriyadi
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning UI / UX
+- 🌱 I’m currently Exploring UI / UX
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me arnoldsupriyadi@gmail.com
 
